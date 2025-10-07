@@ -1,1 +1,1 @@
-# Lung-cancer-classification-from-CT-scans-using-GRAM-CAM
+# Lung cancer classification from CT images using explainability techniques 🫁
