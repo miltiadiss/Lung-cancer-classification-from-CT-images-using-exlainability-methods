@@ -7,7 +7,7 @@
 ---
 - **Model 1:** Convolutional Neural Network (CNN)
 
-<img width="567" height="138" alt="image" src="https://github.com/user-attachments/assets/562289ad-ff42-4aa5-82be-10ee56f3553f" />
+<img width="567" height="176" alt="Στιγμιότυπο οθόνης 2025-10-08 195404" src="https://github.com/user-attachments/assets/839c4222-c025-4773-9068-14231816d1ea" />
 
 - **Model 2:** Vision Transformer (ViT)
 
