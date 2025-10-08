@@ -8,10 +8,10 @@
   <img width="729" height="389" alt="Στιγμιότυπο οθόνης 2025-10-09 000438" src="https://github.com/user-attachments/assets/38dfd7ed-7391-41d6-9935-63250565c31b" />
 </p>
 
-- **Model 2:** ImageDataGenerator + Vision Transformer (ViT) + Attention rollout 
+- **Model 2:** ImageDataGenerator + Vision Transformer (ViT) + Multihead attention rollout 
 
 <p align="center">
-  <img width="425" height="265" alt="Στιγμιότυπο οθόνης 2025-10-08 203031" src="https://github.com/user-attachments/assets/07a6bdfb-b51c-4c74-b658-c1df47ee280d" />
+  <img width="435" height="270" alt="Στιγμιότυπο οθόνης 2025-10-08 203031" src="https://github.com/user-attachments/assets/07a6bdfb-b51c-4c74-b658-c1df47ee280d" />
   <img width="400" height="140" alt="image" src="https://github.com/user-attachments/assets/b18e4b53-558b-4878-a493-16f8755123d0" />
 </p>
 
