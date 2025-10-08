@@ -6,6 +6,7 @@
 
 <p align="center">
   <img width="628" height="208" alt="Στιγμιότυπο οθόνης 2025-10-08 195735" src="https://github.com/user-attachments/assets/4864b03f-a70b-42c2-b18c-0d9d9610626d" />
+  <img width="415" height="473" alt="image" src="https://github.com/user-attachments/assets/58b390d5-41ab-4175-aca2-17939657d2b8" />
 </p>
 
 - **Model 2:** ImageDataGenerator + Vision Transformer (ViT) + Attention rollout 
