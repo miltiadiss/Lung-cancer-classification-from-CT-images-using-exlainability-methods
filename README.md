@@ -1,7 +1,7 @@
 # Lung cancer classification from CT images using explainability techniques 🫁
 
 <p align="center">
-  <img width="491" height="222" alt="image" src="https://github.com/user-attachments/assets/4ad35de8-80d0-46cd-9157-53ae341bcd9a" />
+  <img width="451" height="222" alt="image" src="https://github.com/user-attachments/assets/4ad35de8-80d0-46cd-9157-53ae341bcd9a" />
 </p>
 
 ---
