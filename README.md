@@ -1,4 +1,4 @@
-# Lung cancer classification from CT images 🫁
+# Lung cancer classification from CT images using explainability methods 🫁
 
 **IQ-OTH/NCCD Dataset:** https://www.kaggle.com/datasets/adityamahimkar/iqothnccd-lung-cancer-dataset/data
 
