@@ -15,7 +15,7 @@
   <img width="400" height="140" alt="image" src="https://github.com/user-attachments/assets/b18e4b53-558b-4878-a493-16f8755123d0" />
 </p>
 
-- **Model 3:** VGG16 + Tree-based classifiers (Random Forest, Decision Tree, Gradient Boosting) + SHAP
+- **Model 3:** VGG16 + Tree-based classifiers (Random Forest, Decision Tree, Gradient Boosting) 
 
 <p align="center">
   <img width="698" height="200" alt="Στιγμιότυπο οθόνης 2025-10-08 234601" src="https://github.com/user-attachments/assets/7db95452-b506-4510-9729-835bef24af5d" />
