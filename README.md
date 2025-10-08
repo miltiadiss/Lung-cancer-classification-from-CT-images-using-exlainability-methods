@@ -15,7 +15,7 @@
        style="vertical-align: middle; margin-right: 10px;"/>
   <img width="115" height="131" alt="image"
        src="https://github.com/user-attachments/assets/58b390d5-41ab-4175-aca2-17939657d2b8"
-       style="vertical-align: middle;"/>
+       style="vertical-align: middle; margin-top: -25px;"/>
 </p>
 
 - **Model 2:** ImageDataGenerator + Vision Transformer (ViT) + Attention rollout 
