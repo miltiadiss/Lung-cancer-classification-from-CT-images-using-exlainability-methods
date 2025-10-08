@@ -1,5 +1,7 @@
 # Lung cancer classification from CT images using explainability techniques 🫁
 
+**IQ-OTH/NCCD Dataset:** https://www.kaggle.com/datasets/adityamahimkar/iqothnccd-lung-cancer-dataset/data
+
 - **Model 1:** Convolutional Neural Network (CNN)
 
 <img width="628" height="208" alt="Στιγμιότυπο οθόνης 2025-10-08 195735" src="https://github.com/user-attachments/assets/4864b03f-a70b-42c2-b18c-0d9d9610626d" />
