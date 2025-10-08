@@ -5,7 +5,7 @@
 - **Model 1:** Convolutional Neural Network (CNN) + Grad-CAM 
 
 <p align="center">
-  <img width="628" height="208" alt="Στιγμιότυπο οθόνης 2025-10-08 195735" src="https://github.com/user-attachments/assets/4864b03f-a70b-42c2-b18c-0d9d9610626d" />
+  <img width="729" height="389" alt="Στιγμιότυπο οθόνης 2025-10-09 000438" src="https://github.com/user-attachments/assets/38dfd7ed-7391-41d6-9935-63250565c31b" />
 </p>
 
 - **Model 2:** ImageDataGenerator + Vision Transformer (ViT) + Attention rollout 
