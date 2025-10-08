@@ -1,7 +1,7 @@
 # Lung cancer classification from CT images using explainability techniques 🫁
 ---
-- **Model 1: CNN**
+- **Model 1:** Convolutional Neural Network (CNN)
 
-- **Model 2: Vision Transformer**
+- **Model 2:** Vision Transformer (ViT)
 
-- **Model 3: Simple classifiers (SVM, Random Forest, Decision Tree, Gradient Boosting)**
+- **Model 3:** Standard classifiers (SVM, Random Forest, Decision Tree, Gradient Boosting)
