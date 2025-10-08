@@ -14,4 +14,4 @@
 
 - **Model 3:** VGG16 + Tree-based classifiers (Random Forest, Decision Tree, Gradient Boosting) + SHAP
   
-<img width="628" height="190" alt="Στιγμιότυπο οθόνης 2025-10-08 234402" src="https://github.com/user-attachments/assets/8aa1c4a6-aca7-47aa-af0b-bedece906724" />
+<img width="608" height="173" alt="Στιγμιότυπο οθόνης 2025-10-08 234601" src="https://github.com/user-attachments/assets/7db95452-b506-4510-9729-835bef24af5d" />
